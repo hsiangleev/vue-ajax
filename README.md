@@ -1,7 +1,7 @@
 # vue-ajax
 ### 我自己封装的vue-ajax插件
 ### 使用方法: 
-* 引入文件
+> * 引入文件
 > * new Vue().ajax.get(url,data,fn,ojson), 或 new Vue().ajax.post(url,data,fn,ojson)
 > *     url: 需要获取数据的文件地址 (string)
 > *     data: 需要发送的信息 (可省略) (obj)
