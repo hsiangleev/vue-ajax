@@ -8,4 +8,4 @@
 > *     fn: 获取信息后的回调函数,接收到的返回值为data (function)
 > *     ojson: 是否需要转换为json格式 (可省略) (设置为 "json")
 > * new Vue().ajax.get().cancel(): 取消异步请求
-> * new Vue().ajax.json(str): 可转化json格式字符串
+> * new Vue().ajax.json(str): 可转化json格式字符串 
